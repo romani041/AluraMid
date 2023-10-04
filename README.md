@@ -1,2 +1,2 @@
 # AluraMid
-Projeto do 3º tromestre
+Projeto do 3º trimestre
